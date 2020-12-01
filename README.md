@@ -1,2 +1,2 @@
 # secure-git
-Modification sécurisée avec GPG (deuxième clef)   
+Modification sécurisée avec GPG (deuxième clef)    
