@@ -1,3 +1,3 @@
 # secure-git
 Modification sécurisée avec GPG (deuxième clef)     
-test de modification de
+test de modification de revert
